@@ -31,7 +31,7 @@ DevU는 대학생 개발자들뿐 아니라 모든 개발자들이 자신의 프
   - 상세 평가 지표 제공
 
 ## 시스템 아키텍처
-![image.png](attachment:67d2d150-bc87-46f4-94c7-32c5ad043c6a:image.png)
+![스크린샷 2025-03-10 오후 5 14 59](https://github.com/user-attachments/assets/1309f964-1c23-44a7-8d13-42b65643c200)
 
 
 ## 기술 스택
